@@ -1,0 +1,12 @@
+.circle{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #000;
+    background-image: url(../../assets/circle.gif);
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 0 8%;
+
+}
