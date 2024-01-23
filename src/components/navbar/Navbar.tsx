@@ -1,4 +1,3 @@
-import React from 'react'
 import homeLogo from '../../assets/icons8-circle-64 (1).png'
 import { Link } from 'react-router-dom'
 

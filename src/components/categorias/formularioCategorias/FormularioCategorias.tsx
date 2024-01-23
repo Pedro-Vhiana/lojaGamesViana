@@ -1,4 +1,4 @@
-import React, { ChangeEvent, useContext, useEffect, useState } from 'react';
+import { ChangeEvent, useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import Categoria from '../../../models/Categoria'; // Alterei de Tema para Categoria
 import { atualizar, buscar, cadastrar } from '../../../services/Service';

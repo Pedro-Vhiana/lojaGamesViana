@@ -1,6 +1,6 @@
 // DeletarCategoria.tsx
 
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { deletar, buscar } from '../../../services/Service';
 import Categoria from '../../../models/Categoria';
